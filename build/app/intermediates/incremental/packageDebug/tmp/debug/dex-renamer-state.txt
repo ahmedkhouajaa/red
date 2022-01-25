@@ -1,0 +1,4 @@
+#Wed Jan 19 23:20:33 GMT+01:00 2022
+base.0=D\:\\AZ123\\runn\\Nouveau dossier\\Nouveau dossier\\hawk\\Nouveau dossier\\flutter_application_1\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
